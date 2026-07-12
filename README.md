@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sanjeet+Shukla+%F0%9F%91%8B;Lead+Data+Engineer+%7C+Engineering+Manager;14%2B+Building+Petabyte-Scale+Data+Platforms;AWS+%7C+GCP+%7C+Spark+%7C+Snowflake+%7C+Databricks;Now+Exploring+LLMs%2C+RAG+%26+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sanjeet+Shukla+%F0%9F%91%8B;Lead+Data+Engineer+%7C+Engineering+Manager;Years%2B+Building+Petabyte-Scale+Data+Platforms;AWS+%7C+GCP+%7C+Spark+%7C+Snowflake+%7C+Databricks;Now+Exploring+LLMs%2C+RAG+%26+Agentic+AI" alt="Typing SVG" />
 
 
 </div>
