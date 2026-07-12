@@ -2,15 +2,24 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sanjeet+Shukla+%F0%9F%91%8B;Lead+Data+Engineer+%7C+Engineering+Manager;14%2B+Years+Building+Petabyte-Scale+Data+Platforms;AWS+%7C+GCP+%7C+Spark+%7C+Snowflake+%7C+Databricks;Now+Exploring+LLMs%2C+RAG+%26+Agentic+AI" alt="Typing SVG" />
 
+### Lead Data Engineer & Engineering Manager || 14+ Years Architecting Petabyte-Scale Data Platforms || AWS & GCP || LLM / RAG & Agentic AI Practitioner || Data Engineering Writer on Medium
+
 </div>
 
 <br/>
 
+<table>
+<tr>
+<td width="35%" align="center">
+  <img src="assets/profile.png" width="280" style="border-radius: 8px;" alt="Sanjeet Shukla"/>
+</td>
+<td width="65%">
+
 ```yaml
 sanjeet@github: ~
 ──────────────────────────────────────────────
-Role:                 Lead Data Engineer / Engineering Manager
-Company:              Fanatics Inc.
+Role:                  Lead Data Engineer / Engineering Manager
+Company:               Fanatics Inc.
 Experience:            14 years
 Location:              Ranchi, India
 Domains:               Data Engineering · Lakehouse Architecture · AI/ML Platforms
@@ -18,7 +27,8 @@ Domains:               Data Engineering · Lakehouse Architecture · AI/ML Platf
 Languages.Programming: Python, SQL, PySpark, Scala, Java
 Cloud:                 AWS (Glue, Lambda, SQS, Bedrock, SageMaker), GCP (BigQuery, Dataproc, GKE)
 Data:                  Spark, Kafka, Airflow, DBT, Snowflake, Databricks, Hadoop
-AI/ML:                 LangChain, RAG Pipelines, MLflow, PGVector, Pinecone, Embeddings
+AI/ML:                 RAG Pipelines, LangChain, LangGraph, MLflow, PGVector,
+                       Pinecone, Embeddings, Agentic Workflows
 
 Contact.Email:         sanjeets1900@gmail.com
 Contact.LinkedIn:      linkedin.com/in/sanjeetshukla
@@ -30,6 +40,10 @@ Currently:             Leading a 10-engineer team building a Royalties &
 ──────────────────────────────────────────────
 ```
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 ## 🚀 About Me
@@ -38,7 +52,7 @@ Currently:             Leading a 10-engineer team building a Royalties &
 
 👨‍💻 Currently at **Fanatics Inc.**, I lead a team of 10 engineers building an event-driven Royalties & Revenue Share platform for U.S. eCommerce, using **AWS Glue, Snowflake, Lambda, SQS, and Airflow**. Previously, I've built large-scale platforms at **Yieldmo** (20B+ events/day for ML-driven advertising), **Walmart** (supply-chain data pipelines on GCP), and **Cognizant** (enterprise data lakes for clients like **JPMC** and **Merck**).
 
-🤖 I'm deeply into **AI/ML infrastructure** right now — building RAG-based chatbots, LLM-driven regression testing, and automation tooling using **LangChain, PGVector, and embeddings**.
+🤖 I'm deeply into **AI/ML infrastructure** right now — building RAG-based chatbots and agentic workflows using **LangChain, LangGraph, PGVector, and embeddings**, and using LLMs to automate regression testing on complex financial pipelines.
 
 🧩 I care about **scalable architecture, data quality, and platform reliability**, and enjoy mentoring engineers and driving architecture discussions for critical financial and data systems.
 
@@ -79,9 +93,14 @@ Currently:             Leading a 10-engineer team building a Royalties &
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-### AI / ML
+### AI / ML / LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6E56CF?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_Workflows-6E56CF?style=for-the-badge)
 
 ### Databases & BI
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
