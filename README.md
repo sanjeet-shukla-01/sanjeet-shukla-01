@@ -5,33 +5,6 @@
 
 </div>
 
-```yaml
-sanjeet@github: ~
-──────────────────────────────────────────────
-Role:                  Lead Data Engineer / Engineering Manager
-Company:               Fanatics Inc.
-Experience:            14 years
-Location:              Ranchi, India
-Domains:               Data Engineering · Lakehouse Architecture · AI/ML Platforms
-
-Languages.Programming: Python, SQL, PySpark, Scala, Java
-Cloud:                 AWS (Glue, Lambda, SQS, Bedrock, SageMaker), GCP (BigQuery, Dataproc, GKE)
-Data:                  Spark, Kafka, Airflow, DBT, Snowflake, Databricks, Hadoop
-AI/ML:                 RAG Pipelines, LangChain, LangGraph, MLflow, PGVector,
-                       Pinecone, Embeddings, Agentic Workflows
-
-Contact.Email:         sanjeets1900@gmail.com
-Contact.LinkedIn:      linkedin.com/in/sanjeetshukla
-Contact.Blog:          medium.com/@sanjeets1900
-Contact.GitHub:        github.com/sanjeet-shukla-01
-
-Currently:             Leading a 10-engineer team building a Royalties &
-                       Revenue Share platform for U.S. eCommerce
-──────────────────────────────────────────────
-```
-
-<br/>
-
 
 ## 🚀 About Me
 
@@ -42,6 +15,8 @@ Currently:             Leading a 10-engineer team building a Royalties &
 🤖 I'm deeply into **AI/ML infrastructure** right now — building RAG-based chatbots and agentic workflows using **LangChain, LangGraph, PGVector, and embeddings**, and using LLMs to automate regression testing on complex financial pipelines.
 
 🧩 I care about **scalable architecture, data quality, and platform reliability**, and enjoy mentoring engineers and driving architecture discussions for critical financial and data systems.
+
+🎓 I'm currently exploring **PhD and research opportunities** in data systems and applied AI — particularly around scalable data infrastructure, RAG/agentic systems, and LLM-driven automation. If you're working on something in this space, I'd love to connect.
 
 ⚙️ Outside of "official" work, I like **tinkering with side scripts and automations** — building CLI tools, experimenting with LLM agents, and generally trying to script away anything I have to do twice.
 
@@ -122,6 +97,8 @@ I occasionally write about data engineering and AI on Medium — check out my po
 
 <div align="center">
 
+![Open to Research](https://img.shields.io/badge/Open_to-PhD_%2F_Research_Opportunities-2E9EF7?style=for-the-badge)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjeetshukla/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sanjeets1900)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeets1900@gmail.com)
@@ -136,6 +113,33 @@ I occasionally write about data engineering and AI on Medium — check out my po
 </div>
 
 
+```yaml
+sanjeet@github: ~
+──────────────────────────────────────────────
+Role:                  Lead Data Engineer / Engineering Manager
+Company:               Fanatics Inc.
+Experience:            14 years
+Location:              Ranchi, India
+Domains:               Data Engineering · Lakehouse Architecture · AI/ML Platforms
+
+Languages.Programming: Python, SQL, PySpark, Scala, Java
+Cloud:                 AWS (Glue, Lambda, SQS, Bedrock, SageMaker), GCP (BigQuery, Dataproc, GKE)
+Data:                  Spark, Kafka, Airflow, DBT, Snowflake, Databricks, Hadoop
+AI/ML:                 RAG Pipelines, LangChain, LangGraph, MLflow, PGVector,
+                       Pinecone, Embeddings, Agentic Workflows
+
+Contact.Email:         sanjeets1900@gmail.com
+Contact.LinkedIn:      linkedin.com/in/sanjeetshukla
+Contact.Blog:          medium.com/@sanjeets1900
+Contact.GitHub:        github.com/sanjeet-shukla-01
+
+Currently:             Leading a 10-engineer team building a Royalties &
+                       Revenue Share platform for U.S. eCommerce
+Looking For:           PhD / Research roles in Data Systems & Applied AI
+──────────────────────────────────────────────
+```
+
+<br/>
 
 <br/>
 
