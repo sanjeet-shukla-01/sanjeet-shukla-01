@@ -37,7 +37,7 @@ Currently:             Leading a 10-engineer team building a Royalties &
 
 🎓 I'm **Sanjeet Shukla**, a **Lead Data Engineer & Engineering Manager** with **14 years** of experience designing high-throughput data pipelines and lakehouse architectures across **AWS**, **GCP**, and on-prem systems — comfortable operating at **petabyte scale**.
 
-👨‍💻 Currently at **Fanatics Inc.**, I lead a team of 10 engineers building an event-driven Royalties & Revenue Share platform for U.S. eCommerce, using **AWS Glue, Snowflake, Lambda, SQS, and Airflow**. Previously, I've built large-scale platforms at **Yieldmo** (20B+ events/day for ML-driven advertising), **Walmart** (supply-chain data pipelines on GCP), and **Cognizant** (enterprise data lakes for clients like **JPMC** and **Merck**).
+👨‍💻 Currently at **Fanatics Inc.**, I lead a team of 15 engineers building an event-driven Royalties & Revenue Share platform for U.S. eCommerce, using **AWS Glue, Snowflake, Lambda, SQS, and Airflow**. Previously, I've built large-scale platforms at **Yieldmo** (20B+ events/day for ML-driven advertising), **Walmart** (supply-chain data pipelines on GCP), and **Cognizant** (enterprise data lakes for clients like **JPMC** and **Merck**).
 
 🤖 I'm deeply into **AI/ML infrastructure** right now — building RAG-based chatbots and agentic workflows using **LangChain, LangGraph, PGVector, and embeddings**, and using LLMs to automate regression testing on complex financial pipelines.
 
@@ -47,7 +47,7 @@ Currently:             Leading a 10-engineer team building a Royalties &
 
 ## 🏅 Career Highlights
 
-- 🚀 Leading a **10-engineer team** building a Royalties & Revenue Share platform processing millions of financial records at **Fanatics Inc.**
+- 🚀 Leading a **15-engineer team** building a Royalties & Revenue Share platform processing millions of financial records at **Fanatics Inc.**
 - 🤖 Built an **AI knowledge base for LLM-driven regression testing**, cutting manual verification effort and speeding up release cycles by **30%**
 - 📊 Architected a data platform processing **20B+ events / 30TB+ per day** for ML-driven advertising at **Yieldmo**
 - 💰 Reduced compute & storage costs by **~20%** through query optimization and auto-scaling improvements
